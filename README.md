@@ -1,4 +1,3 @@
-✨ Amlal El Mahrouss ✨
+✨ Amlal El Mahrouss aka "ALTernative"
 
-✨ C/C++ Enjoyer
-✨ Likes system programming
+✨ Likes C++
